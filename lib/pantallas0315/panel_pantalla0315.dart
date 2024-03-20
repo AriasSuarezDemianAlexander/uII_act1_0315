@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'item_doctor.dart';
+import 'item_carpinteria.dart';
 
 class PanelPantallaa0315 extends StatelessWidget {
   const PanelPantallaa0315({Key? key}) : super(key: key);
@@ -75,7 +75,7 @@ class PanelPantallaa0315 extends StatelessWidget {
               crossAxisCount: 2,
               mainAxisSpacing: 20,
               crossAxisSpacing: 15,
-              children: [for (int i = 1; i <= 10; i++) const Itemdoctor()],
+              children: [for (int i = 1; i <= 10; i++) const Itemcarpi()],
             ),
           )
         ],

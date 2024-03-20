@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class Itemdoctor extends StatelessWidget {
-  const Itemdoctor({super.key});
+class Itemcarpi extends StatelessWidget {
+  const Itemcarpi({super.key});
 
   @override
   Widget build(BuildContext context) {
